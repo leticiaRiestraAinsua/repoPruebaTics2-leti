@@ -1,0 +1,2 @@
+Práctica de GitHub y Visual Studio Code.
+Estoy aprendiendo a crear repositorios, documentarlos y sincronizar cambios.
